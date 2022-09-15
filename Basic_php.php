@@ -63,5 +63,23 @@ Our vision "to be a trusted leader in the processing, manufacturing, and distrib
     <td>Francisco Chang</td>
     <td>Mexico</td>
 </table>
+<center><p>Register Here</p></center>
+	<label for="">Name</label>
+    <br><input type="type">
+    <input type="type">
+    <br><label for="">Enter your email</label>
+    <br><input type="text">
+    <br><label type="">Create your password</label>
+    <br><input type="password">
+    <br><label type=""> Confirm your password</label>
+    <br><input type="Password">
+    <br><label type="">Birthday</label>
+    <br><input type="date">
+    <br><label type="">Gender</label>
+	<br><select>
+		<option value="">Male</option>
+		<option value="">Female</option>
+		
+	</select>																		     
 </body>
 </html>
