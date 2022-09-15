@@ -8,7 +8,7 @@
 <body style="background-color:olive">
 <hr>
 <label>Add Title</label>
-<input type="text"></input>
+<input type="text" class="title" name="title" id="title" placeholder="Enter purpose of Meeting"  ></input>
 <br>
 <br>
 <br>
@@ -28,15 +28,10 @@
 <input type="time"></input>
 <br>
 <br>
-<label class="location" >Location</label>
+<label >Location</label>
 <style>
-.location{
-	font: verdanan , Arial; 
-	height:20px;
-	weight:50px;
-}
 </style>
-<input type="text"></input>
+<input type="text" class="location" name="location" id="location" placeholder="Enter meeting location"    ></input>
 <hr>
 <br>
 <label>Reminder<label>
@@ -50,7 +45,7 @@
 <br>
 <br>
 <label>Add description</label>
-<input type="text"></input>
+<input type="text" class="description" name="description" id="description" placeholder="Enter meeting description"   ></input>
 
 
 
